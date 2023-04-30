@@ -4,8 +4,11 @@
 
 <p align="center"> <a href="https://twitter.com/squashvash" target="blank"><img src="https://img.shields.io/twitter/follow/squashvash?logo=twitter&style=for-the-badge" alt="squashvash" /></a> </p>
 
-- I’m currently working on [Trading Bot](https://github.com/ShayVash/TradeBot) 
-- How to reach me **shayalon.vash@gmail.com**
+<div align=center>
+I’m currently working on [Trading Bot](https://github.com/ShayVash/TradeBot) 
+How to reach me **shayalon.vash@gmail.com**
+</div>
+
 
 
 
