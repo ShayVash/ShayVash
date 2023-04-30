@@ -1,5 +1,6 @@
 <h1 align="center">Shay Alon Vash</h1>
-<h3 align="center">Your Friendly Neighborhood Android Dev!</h3>
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Your+Friendly+Neightberhood+Android+Dev;Computer+Science+Student;Problem+Solver;Freelancer;" alt="Headline" />
 
 <p align="center"> <a href="https://twitter.com/squashvash" target="blank"><img src="https://img.shields.io/twitter/follow/squashvash?logo=twitter&style=for-the-badge" alt="squashvash" /></a> </p>
 
