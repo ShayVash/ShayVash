@@ -6,7 +6,6 @@
 
 <div align=center>
 I’m currently working on [Trading Bot](https://github.com/ShayVash/TradeBot) 
-How to reach me **shayalon.vash@gmail.com**
 </div>
 
 
