@@ -22,6 +22,5 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ShayVash&repo=Learn-Candlestick-Patterns)](https://github.com/ShayVash/Learn-Candlestick-Patterns)
 <Br>
 <hr>
-<Br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shayvash&show_icons=true&locale=en&theme=dark" alt="shayvash" /></p>
